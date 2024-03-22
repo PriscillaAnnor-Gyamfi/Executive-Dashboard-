@@ -25,5 +25,5 @@
 - <b>SQL Server Management Studio (SSMS)</b>
 - <b>Windows 10</b> 
 
-<b>Dashboard in Tableau [here](https://public.tableau.com/app/profile/priscilla.annor.gyamfi/viz/NewProject_17097462809220/Dashboard12)
+<b>
 </b>
